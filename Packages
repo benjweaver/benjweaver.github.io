@@ -5,9 +5,9 @@ Maintainer: Ben Weaver (r3st1t0u) r3st1t0u@gmail.com
 Depends: winterboard
 Filename: debs//com.r3st1t0u.classicappstoreicons_1.0_iphoneos-arm.deb
 Size: 3514084
-MD5sum: ec225a6a7412b8701ef3c4306ac72d6b
-SHA1: ad285fdf9c3ab6a0a5ca0a86ad5574730156dfa3
-SHA256: b2f458d961fb7b021dddc4d31b77d311dcdb5d657fb751273a9fd744ac43a4ce
+MD5sum: 72e8b2c4a6c7acbd25119b6299530429
+SHA1: 30608c5a90d600c6120ed61f4b0a39ebd222d591
+SHA256: bcb55ec99b93264ed4864a89c96480efe887367dbdd53c33183acbb3c50822fa
 Section: Legacy
 Description: Legacy iOS should look a little more legacy!
 Author: Ben Weaver (r3st1t0u) r3st1t0u@gmail.com
