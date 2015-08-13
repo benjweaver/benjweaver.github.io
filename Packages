@@ -1,14 +1,14 @@
-Package: <com.r3st1t0u.classicappstoreicons>
-Version: <1.0>
+Package: com.r3st1t0u.classicappstoreicons
+Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Ben Weaver (r3st1t0u) <r3st1t0u@gmail.com>
-Depends: <winterboard>
+Maintainer: r3st1t0u <r3st1t0u@gmail.com>
+Depends: winterboard
 Filename: debs//com.r3st1t0u.classicappstoreicons_1.0_iphoneos-arm.deb
-Size: <3513842>
-MD5sum: <ec225a6a7412b8701ef3c4306ac72d6b>
-SHA1: <ad285fdf9c3ab6a0a5ca0a86ad5574730156dfa3>
-SHA256: <b2f458d961fb7b021dddc4d31b77d311dcdb5d657fb751273a9fd744ac43a4ce>
-Section: <Legacy>
-Description: <Legacy iOS should look a little more legacy!>
-Author: Ben Weaver (r3st1t0u) <r3st1t0u@gmail.com>
+Size: 3513842
+MD5sum: ec225a6a7412b8701ef3c4306ac72d6b
+SHA1: ad285fdf9c3ab6a0a5ca0a86ad5574730156dfa3
+SHA256: b2f458d961fb7b021dddc4d31b77d311dcdb5d657fb751273a9fd744ac43a4ce
+Section: Legacy
+Description: Legacy iOS should look a little more legacy!
+Author: r3st1t0u <r3st1t0u@gmail.com>
 Name: ClassicAppStoreIcons
