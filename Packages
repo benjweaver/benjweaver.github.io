@@ -10,5 +10,6 @@ SHA1: <04b295fbec6fd6835ff2553c77c3e6e8a2663990>
 SHA256: <13eb031aa109594c831dd62c3c6aa0a9513c6f2cb8c2e68e4cb3560733b5e402>
 Section: <Legacy>
 Description: <Legacy iOS should look a little more legacy!>
+Depiction: r3st1t0u.github.io
 Author: Ben Weaver (r3st1t0u) <r3st1t0u@gmail.com>
 Name: ClassicAppStoreIcons
