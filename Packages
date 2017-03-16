@@ -1,14 +1,14 @@
-Package: com.r3st1t0u.classicappstoreicons
+Package: com.r3st1t0u.substratefix
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Ben Weaver (r3st1t0u) r3st1t0u@gmail.com
-Depends: winterboard
-Filename: debs//com.r3st1t0u.classicappstoreicons_1.0_iphoneos-arm.deb
-Size: 3514084
-MD5sum: 72e8b2c4a6c7acbd25119b6299530429
-SHA1: 30608c5a90d600c6120ed61f4b0a39ebd222d591
-SHA256: bcb55ec99b93264ed4864a89c96480efe887367dbdd53c33183acbb3c50822fa
-Section: Legacy
-Description: Legacy iOS should look a little more legacy!
-Author: Ben Weaver (r3st1t0u) r3st1t0u@gmail.com
-Name: ClassicAppStoreIcons
+Maintainer: Ben Weaver (r3st1t0u)
+Depends: mobilesubstrate
+Filename: debs//SubstrateFix.deb
+Size: 908
+MD5sum: 19cfcacfafe4e07affcd6aa9e90d11ea
+SHA1: 13f9fd88b1b776b81b927e695f9d978b149a0d8c
+SHA256: d2a701a3d17a4c1323ec728e1246a71d012227fa931e51b2e77c7b0b99d0761c
+Section: System
+Description: Adds the command fix in terminal which enables substrate and reinstalls anemone and rocketbootstrap automatically. This is for iPhone 7 users on the mach_portal jailbreak.
+Author: Ben Weaver (r3st1t0u)
+Name: Substrate Fix for Yalub3

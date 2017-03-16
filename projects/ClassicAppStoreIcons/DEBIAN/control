@@ -1,8 +1,0 @@
-Package: com.r3st1t0u.ClassicAppStoreIcons
-Name: ClassicAppStoreIcons
-Version: 1.0
-Architecture: iphoneos-arm
-Description: Legacy iOS should look a little more legacy.
-Maintainer: Ben Weaver (r3st1t0u) r3st1t0u@gmail.com
-Author: Ben Weaver (r3st1t0u) r3st1t0u@gmail.com
-Section: Legacy
