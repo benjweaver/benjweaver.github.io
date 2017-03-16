@@ -1,8 +1,8 @@
-Origin: r3st1t0u's Public Repository
-Label: r3st1t0u's Public Repo
+Origin: r3st1t0u's Repository
+Label: r3st1t0u's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Alpha, beta, and personal stuff here!
+Description: Stuff I find useful.

@@ -2,7 +2,8 @@ Package: com.r3st1t0u.substratefix
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Ben Weaver (r3st1t0u)
-Depends: mobilesubstrate
+Depends: mobilesubstrate, com.anemonetheming.anemone, com.rpetrich.rocketbootstrap
+Version: 1.0
 Filename: debs//SubstrateFix.deb
 Size: 908
 MD5sum: 19cfcacfafe4e07affcd6aa9e90d11ea
