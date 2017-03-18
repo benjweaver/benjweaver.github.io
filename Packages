@@ -1,15 +1,15 @@
 Package: com.r3st1t0u.substratefix
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: r3st1t0u (Ben Weaver)
-Depends: mobilesubstrate, com.anemonetheming.anemone, com.rpetrich.rocketbootstrap
-Filename: ./debs/SubstrateFix.deb
-Size: 908
-MD5sum: 19cfcacfafe4e07affcd6aa9e90d11ea
-SHA1: 13f9fd88b1b776b81b927e695f9d978b149a0d8c
-SHA256: d2a701a3d17a4c1323ec728e1246a71d012227fa931e51b2e77c7b0b99d0761c
+Depends: mobilesubstrate
+Filename: ./debs/order66.deb
+Size: 1196
+MD5sum: a74da615930a10ab0595dd07e290ac2e
+SHA1: dd9684f16df558f8ab5dc11244aad9dd22eb9b7a
+SHA256: 70844c25277db181bb8aded9222e7163b9e33e5229a024bf6609176984a88603
 Section: System
-Description: Adds the command fix in terminal which enables substrate and reinstalls anemone and rocketbootstrap automatically. This is for iPhone 7 users on the mach_portal jailbreak.
+Description: Adds the command "execute" in terminal which enables substrate and launches LaunchDaemons that currently aren't launching automatically. This fixes tweaks such as Rocketbootstrap and Anemone. This is for iPhone 7 users on the mach_portal jailbreak. As of version 1.1, this should support other tweaks that usually would need a reinstall. It also no longer reinstalls packages through the script, and it enables them with the tweak’s LaunchDaemon. This version should enable compatibility with all tweaks that rely on /Library/LaunchDaemons/. This version also changes the command used from “fix” to “execute” because quite a few people requested for me not to use fix.
 Author: r3st1t0u (Ben Weaver)
-Name: Substrate Fix for Yalub3
+Name: Substrate Fix For Yalub3
 
