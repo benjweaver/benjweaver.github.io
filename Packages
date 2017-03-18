@@ -1,15 +1,15 @@
 Package: com.r3st1t0u.substratefix
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: r3st1t0u (Ben Weaver)
 Depends: mobilesubstrate
-Filename: ./debs/order66.deb
-Size: 1196
-MD5sum: a74da615930a10ab0595dd07e290ac2e
-SHA1: dd9684f16df558f8ab5dc11244aad9dd22eb9b7a
-SHA256: 70844c25277db181bb8aded9222e7163b9e33e5229a024bf6609176984a88603
+Filename: ./debs/Order66.deb
+Size: 1242
+MD5sum: a1d8b0950a739d47fe00a69ebfda0f47
+SHA1: 04529d73f3ac943a231be466743fd349bbcefe68
+SHA256: 22d56783c2815002e825d1d4d490bab3f0c4c8d00de51cb902f8571df22b3f5c
 Section: System
-Description: Adds the command "execute" in terminal which enables substrate and launches LaunchDaemons that currently aren't launching automatically. This fixes tweaks such as Rocketbootstrap and Anemone. This is for iPhone 7 users on the mach_portal jailbreak. As of version 1.1, this should support other tweaks that usually would need a reinstall. It also no longer reinstalls packages through the script, and it enables them with the tweak’s LaunchDaemon. This version should enable compatibility with all tweaks that rely on /Library/LaunchDaemons/. This version also changes the command used from “fix” to “execute” because quite a few people requested for me not to use fix.
+Description: Adds the command "execute" in terminal which enables substrate and launches LaunchDaemons that currently aren't launching automatically. This fixes tweaks such as Rocketbootstrap and Anemone. This is for iPhone 7 users on the mach_portal jailbreak. As of version 1.1, this should support other tweaks that usually would need a reinstall. It also no longer reinstalls packages through the script, and it enables them with the tweak’s LaunchDaemon. This version should enable compatibility with all tweaks that rely on /Library/LaunchDaemons/. This version also changes the command used from “fix” to “execute” because quite a few people requested for me not to use fix. Version 1.2 fixes an error on my part causing this not to function every time.
 Author: r3st1t0u (Ben Weaver)
-Name: Substrate Fix For Yalub3
+Name: Substrate Fix for Yalub3
 
