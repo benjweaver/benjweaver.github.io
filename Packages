@@ -1,14 +1,14 @@
 Package: com.r3st1t0u.substratefix
-Version: 1.5-1
+Version: 1.5.1
 Architecture: iphoneos-arm
 Maintainer: r3st1t0u (Ben Weaver)
-Depends: mobilesubstrate, com.ericasadun.untilities
+Depends: mobilesubstrate, com.ericasadun.utilities
 Conflicts: com.codyqx4.ios9rebootfix
-Filename: ./debs/com.r3st1t0u.substratefix_1.5-1_iphoneos-arm.deb
-Size: 1998
-MD5sum: 7f0e31116f0140298d0b14a0b8f312c7
-SHA1: 1fd65dfccb7f475ff58b84974b3dfbf4a7ea6ea7
-SHA256: 0f295828651caf12bff8c3a0f63ce5f896d6c80e52862270629035e74fc036c6
+Filename: ./debs/com.r3st1t0u.substratefix_1.5.1_iphoneos-arm.deb
+Size: 1996
+MD5sum: 58fd2c96ba6d50541c26268531bcb72c
+SHA1: e43038ca0ed3efc03fdcf68f0ba68802c0dfb5db
+SHA256: c0893672906c2d9888bac358dbb84e30b7be4ef3e5be1d9377a86bed2781f44f
 Section: System
 Description: Adds the command execute in terminal which enables substrate and launches LaunchDaemons that currently aren't launching automatically. This fixes tweaks such as Rocketbootstrap and Anemone. This is for iPhone 7 users on the mach_portal jailbreak. As of version 1.1, this should support other tweaks that usually would need a reinstall. It also no longer reinstalls packages through the script, and it enables them with the tweak’s LaunchDaemon. This version should enable compatibility with all tweaks that rely on /Library/LaunchDaemons/. This version also changes the command used from fix to execute because quite a few people requested for me not to use fix. Version 1.2 fixes an error on my part causing this not to function every time. Version 1.3 changes how the SpringBoard is killed in order to increase stability and updates the change log to fix an error that was bothering me. Version 1.4 adds support for TypeStatus Plus, and adds a command "high" to debug for when Rocketbootstrap doesn't start correctly. Version 1.5 includes codyqx4's iOS 9 reboot fix in order to add stability. I plan on creating a version of this that can be launched from an icon. Follow me on twitter at @r3st1t0u!
 Author: r3st1t0u (Ben Weaver)
