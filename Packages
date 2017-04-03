@@ -13,6 +13,21 @@ Description: This is a SpringBoard icon to execute order66 in order to better fi
 Author: r3st1t0u (Ben Weaver)
 Name: Executer for Yalub3
 
+Package: com.r3st1t0u.sheev
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: r3st1t0u (Ben Weaver)
+Depends: mobilesubstrate, com.r3st1t0u.substratefix
+Filename: ./debs/com.r3st1t0u.sheev_1.1_iphoneos-arm.deb
+Size: 154818
+MD5sum: 07a2ff19bf905cc5d51b1b2eeae3067b
+SHA1: b6f63c25bfb6fa694f6096a5378b7b70682e0017
+SHA256: 5ad06e6842e57c576d2b94feca12d6031aa46745ad9eb068c6ec3222c2d5cf44
+Section: System
+Description: This is a SpringBoard icon to execute order66 in order to better fix substrate on the iPhone 7/7+, and improve the stability of Yalub3. As of version 1.1 I've added a temporary icon, fixed layout issues on 7+ devices, and switched to a dark UI. This is still beta software, just an fyi. This version is also arm64 just because I can.
+Author: r3st1t0u (Ben Weaver)
+Name: Executer for Yalub3
+
 Package: com.r3st1t0u.substratefix
 Version: 1.5.1
 Architecture: iphoneos-arm
