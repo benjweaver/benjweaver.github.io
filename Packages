@@ -14,18 +14,18 @@ Author: r3st1t0u (Ben Weaver)
 Name: Executer for Yalub3
 
 Package: com.r3st1t0u.substratefix
-Version: 2.0
+Version: 2.2
 Architecture: iphoneos-arm
 Maintainer: r3st1t0u (Ben Weaver)
 Depends: mobilesubstrate, com.ericasadun.utilities
 Conflicts: com.codyqx4.ios9rebootfix
-Filename: ./debs/com.r3st1t0u.substratefix_2.0_iphoneos-arm.deb
-Size: 2326
-MD5sum: eaae7372de3d13b543d19d7e4329eac9
-SHA1: c1aa165ed81328bec3028dce7e3c6a6e2057cc7b
-SHA256: 055fa081d1a72e7067660673684d8775c108ba3fbe4b9b956260a1561657f73b
+Filename: ./debs/com.r3st1t0u.substratefix_2.2_iphoneos-arm.deb
+Size: 1702
+MD5sum: 4c26e1c336822ca006d729d9e84d5b77
+SHA1: 871d91f1826c1e81d4faece457e73ba6c4c61298
+SHA256: a64c315ef0515a693759e8e61896f2e6cbc5901af16fdc1bf84f3ec4dfb8b1aa
 Section: System
-Description: Adds the command execute in terminal which enables substrate and launches LaunchDaemons that currently aren't launching automatically. This fixes tweaks such as Rocketbootstrap and Anemone. This is for iPhone 7 users on the mach_portal jailbreak. As of version 1.1, this should support other tweaks that usually would need a reinstall. It also no longer reinstalls packages through the script, and it enables them with the tweak’s LaunchDaemon. This version should enable compatibility with all tweaks that rely on /Library/LaunchDaemons/. This version also changes the command used from fix to execute because quite a few people requested for me not to use fix. Version 1.2 fixes an error on my part causing this not to function every time. Version 1.3 changes how the SpringBoard is killed in order to increase stability and updates the change log to fix an error that was bothering me. Version 1.4 adds support for TypeStatus Plus, and adds a command "high" to debug for when Rocketbootstrap doesn't start correctly. Version 1.5 includes codyqx4's iOS 9 reboot fix in order to add stability. Version 1.6 adds support for Appsync Unified and App Admin. Version 1.7-1.9 adds support for TetherMe. I released a lot of betas so the version number is higher so those users see the update in Cydia (thanks to everyone who tested). Special thanks to the dev, Sam Bingner (@sbingner) for his help. Version 2.0 cleans the script up a bit, and possibly adds support for new tweaks. If you are using Executer for Yalub3 no update is needed for these changes to take effect. You may donate at paypal.me/r3st1t0u!
+Description: This package is a better substrate enabler for the Yalub3 jailbreak. Version 2.2. fixes tweak support. Run with the command "execute" or through Executer for Yalub3 on my repo. You may donate at paypal.me/r3st1t0u!
 Author: r3st1t0u (Ben Weaver)
 Name: Substrate Fix for Yalub3
 
