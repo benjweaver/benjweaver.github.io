@@ -1,13 +1,13 @@
 Package: com.r3st1t0u.order65
-Version: 1.1
+Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: r3st1t0u (Ben Weaver)
 Depends: mobilesubstrate, com.r3st1t0u.substratefix
-Filename: ./debs/com.r3st1t0u.order65_1.1_iphoneos-arm.deb
-Size: 1720
-MD5sum: 2489252932a6b7619aeccb45f51b64f1
-SHA1: 077dd4b0d944f5483db4c3dc73a1c63b7b07dda5
-SHA256: 9b8bb05d40442fa44610b314dd1861bba7bc5278b012e25a24b3e7d40c76330c
+Filename: ./debs/com.r3st1t0u.order65_1.1.1_iphoneos-arm.deb
+Size: 1752
+MD5sum: 103554bfc3c87a052a9da418b4a3529c
+SHA1: ce73cc794f53d58b7b32a64de7d56bd1a8d86270
+SHA256: 21e54ada61d23d85dae3c1663a66671447ef74fa94138c8c2f1d7102c14362c6
 Section: System
 Description: The package automatically enables substrate when running mach_portal jailbreak. This is beta software. I will try to provide support, but expect some bugs. Special thanks to @DillanCodez for his help on this. Follow me on twitter @r3st1t0u. If you'd like to buy me a coffee, use paypal.me/r3st1t0u to donate!
 Author: r3st1t0u (Ben Weaver)
