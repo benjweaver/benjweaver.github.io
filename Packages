@@ -1,15 +1,15 @@
 Package: com.r3st1t0u.order65
-Version: 1.1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: r3st1t0u (Ben Weaver)
 Depends: mobilesubstrate, com.r3st1t0u.substratefix
-Filename: ./debs/com.r3st1t0u.order65_1.1.1_iphoneos-arm.deb
-Size: 1752
-MD5sum: 103554bfc3c87a052a9da418b4a3529c
-SHA1: ce73cc794f53d58b7b32a64de7d56bd1a8d86270
-SHA256: 21e54ada61d23d85dae3c1663a66671447ef74fa94138c8c2f1d7102c14362c6
+Filename: ./debs/com.r3st1t0u.order65_1.2_iphoneos-arm.deb
+Size: 1826
+MD5sum: ae6c6f6a6c310a21dd7292154b1c9ac1
+SHA1: 935f4798ffdf33d88462117d7ffaf6cc5944fca2
+SHA256: 5cbe8ac31a639094ac766bbe8d5afbbfa8cdb1c30f1392cebdba9737b4f2eba8
 Section: System
-Description: The package automatically enables substrate when running mach_portal jailbreak. This is beta software. I will try to provide support, but expect some bugs. Special thanks to @DillanCodez for his help on this. Follow me on twitter @r3st1t0u. If you'd like to buy me a coffee, use paypal.me/r3st1t0u to donate!
+Description: The package automatically enables substrate when running mach_portal jailbreak. This is beta software. I will try to provide support, but expect some bugs. Should bugs arise, please alert me of the issue calmly so that I may fix it. I try to reply to everyone, but even if I don't, I read it all and consider the messages for future updates. Special thanks to @DillanCodez for his help on this. Follow me on twitter @r3st1t0u. If you'd like to buy me a coffee, use paypal.me/r3st1t0u to donate!
 Author: r3st1t0u (Ben Weaver)
 Name: Order 65 for Yalub3
 
@@ -29,18 +29,18 @@ Author: r3st1t0u (Ben Weaver)
 Name: Executer for Yalub3
 
 Package: com.r3st1t0u.substratefix
-Version: 2.3
+Version: 2.4
 Architecture: iphoneos-arm
 Maintainer: r3st1t0u (Ben Weaver)
 Depends: mobilesubstrate, com.ericasadun.utilities
 Conflicts: com.codyqx4.ios9rebootfix
-Filename: ./debs/com.r3st1t0u.substratefix_2.3_iphoneos-arm.deb
-Size: 1760
-MD5sum: 9b1e64d3a1f700e69e7888e155c9a694
-SHA1: 38460f0003dc360df053f8cb5538d982e84cda04
-SHA256: ad615707ab7da40bb9203b9c61ba81b5ee6e76e4d2ad8e6da94927e2fd63e044
+Filename: ./debs/com.r3st1t0u.substratefix_2.4_iphoneos-arm.deb
+Size: 1716
+MD5sum: b9b139f2e7b68613544bdef26a483588
+SHA1: 1e21dbf0f5bac5c9f6c9d91650cf771fe6a8e480
+SHA256: e2ee24f2902ae32f70717ac5d68405ce9b1716e83862ee5577da59bd50e6342d
 Section: System
-Description: This package is a better substrate enabler for the Yalub3 jailbreak. Version 2.3 retains Order65 continuity. Run with the command "execute" or through Executer for Yalub3 on my repo. You may donate at paypal.me/r3st1t0u!
+Description: This package is a better substrate enabler for the Yalub3 jailbreak. Version 2.4 retains Order65 continuity. Run with the command "execute" or through Executer for Yalub3 on my repo. You may donate at paypal.me/r3st1t0u!
 Author: r3st1t0u (Ben Weaver)
 Name: Substrate Fix for Yalub3
 
