@@ -29,18 +29,18 @@ Author: r3st1t0u (Ben Weaver)
 Name: Executer for Yalub3
 
 Package: com.r3st1t0u.substratefix
-Version: 2.4
+Version: 2.5
 Architecture: iphoneos-arm
 Maintainer: r3st1t0u (Ben Weaver)
 Depends: mobilesubstrate, com.ericasadun.utilities
 Conflicts: com.codyqx4.ios9rebootfix
-Filename: ./debs/com.r3st1t0u.substratefix_2.4_iphoneos-arm.deb
-Size: 1716
-MD5sum: b9b139f2e7b68613544bdef26a483588
-SHA1: 1e21dbf0f5bac5c9f6c9d91650cf771fe6a8e480
-SHA256: e2ee24f2902ae32f70717ac5d68405ce9b1716e83862ee5577da59bd50e6342d
+Filename: ./debs/com.r3st1t0u.substratefix_2.5_iphoneos-arm.deb
+Size: 1624
+MD5sum: 02504cd21c4cc33cc19fcc87d5175fb0
+SHA1: 26f26316f39c86d860ff78c354ccbce917a0e5cb
+SHA256: 5fb975f998bcbada475852124798a2e26b95a3bd87bb70deb8d604d5b05674ab
 Section: System
-Description: This package is a better substrate enabler for the Yalub3 jailbreak. Version 2.4 retains Order65 continuity. Run with the command "execute" or through Executer for Yalub3 on my repo. You may donate at paypal.me/r3st1t0u!
+Description: This package is a better substrate enabler for the Yalub3 jailbreak. Version 2.5 cleans up errors, and removes the now obsolete high command. Run with the command execute or through Executer for Yalub3 on my repo. You may donate at paypal.me/r3st1t0u!
 Author: r3st1t0u (Ben Weaver)
 Name: Substrate Fix for Yalub3
 
