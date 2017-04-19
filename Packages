@@ -13,6 +13,20 @@ Description: The package automatically enables substrate when running mach_porta
 Author: r3st1t0u (Ben Weaver)
 Name: Order 65 for Yalub3
 
+Package: com.r3st1t0u.respring
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: r3st1t0u (Ben Weaver)
+Filename: ./debs/com.r3st1t0u.respring_1.0_iphoneos-arm.deb
+Size: 1714
+MD5sum: a1107b8700d9dd91e5e7131d433351b3
+SHA1: 31217f23b6ac87df4d758c02a3a19341f4c211b0
+SHA256: e192141732ce00d6d7da0c3c19408f4d8d9d895a5e3ddfe8e3e5e4593817cbd6
+Section: System
+Description: This is a respring icon. It is a shortcut to run "killall -9 SpringBoard. It should work on most versions of iOS. You may donate at paypal.me/r3st1t0u!
+Author: r3st1t0u (Ben Weaver)
+Name: Respring Icon
+
 Package: com.r3st1t0u.sheev
 Version: 1.2
 Architecture: iphoneos-arm
