@@ -1,27 +1,27 @@
 Package: com.r3st1t0u.order65
-Version: 1.2
+Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: r3st1t0u (Ben Weaver)
 Depends: mobilesubstrate, com.r3st1t0u.substratefix
-Filename: ./debs/com.r3st1t0u.order65_1.2_iphoneos-arm.deb
-Size: 1826
-MD5sum: ae6c6f6a6c310a21dd7292154b1c9ac1
-SHA1: 935f4798ffdf33d88462117d7ffaf6cc5944fca2
-SHA256: 5cbe8ac31a639094ac766bbe8d5afbbfa8cdb1c30f1392cebdba9737b4f2eba8
+Filename: ./debs/com.r3st1t0u.order65_1.3_iphoneos-arm.deb
+Size: 1880
+MD5sum: 65bfa1524e3cd683c71ced958666d52f
+SHA1: a32094a7dad13c8022e23d9cc40e83aefe7345ff
+SHA256: 42a7cd5a1fb79008211b8d494a6917683ff48674ef38055b2e5725cb9f3c436e
 Section: System
 Description: The package automatically enables substrate when running mach_portal jailbreak. This is beta software. I will try to provide support, but expect some bugs. Should bugs arise, please alert me of the issue calmly so that I may fix it. I try to reply to everyone, but even if I don't, I read it all and consider the messages for future updates. Special thanks to @DillanCodez for his help on this. Follow me on twitter @r3st1t0u. If you'd like to buy me a coffee, use paypal.me/r3st1t0u to donate!
 Author: r3st1t0u (Ben Weaver)
 Name: Order 65 for Yalub3
 
 Package: com.r3st1t0u.respring
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: r3st1t0u (Ben Weaver)
-Filename: ./debs/com.r3st1t0u.respring_1.0_iphoneos-arm.deb
-Size: 1714
-MD5sum: a1107b8700d9dd91e5e7131d433351b3
-SHA1: 31217f23b6ac87df4d758c02a3a19341f4c211b0
-SHA256: e192141732ce00d6d7da0c3c19408f4d8d9d895a5e3ddfe8e3e5e4593817cbd6
+Filename: ./debs/com.r3st1t0u.respring_1.1_iphoneos-arm.deb
+Size: 22230
+MD5sum: 089bba265e46873b7acf3c87e17349b3
+SHA1: cc64760d4d989b950655a5105a3c8c254d018d3b
+SHA256: f98d9dd4a0a53e55287872a0e352d20bb8d665fea71d27d0f893ee63a115c76f
 Section: System
 Description: This is a respring icon. It is a shortcut to run "killall -9 SpringBoard. It should work on most versions of iOS. You may donate at paypal.me/r3st1t0u!
 Author: r3st1t0u (Ben Weaver)
