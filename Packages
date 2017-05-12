@@ -1,15 +1,15 @@
 Package: com.r3st1t0u.order65
-Version: 1.3
+Version: 1.5
 Architecture: iphoneos-arm
 Maintainer: r3st1t0u (Ben Weaver)
 Depends: mobilesubstrate, com.r3st1t0u.substratefix
-Filename: ./debs/com.r3st1t0u.order65_1.3_iphoneos-arm.deb
-Size: 1880
-MD5sum: 65bfa1524e3cd683c71ced958666d52f
-SHA1: a32094a7dad13c8022e23d9cc40e83aefe7345ff
-SHA256: 42a7cd5a1fb79008211b8d494a6917683ff48674ef38055b2e5725cb9f3c436e
+Filename: ./debs/com.r3st1t0u.order65_1.5_iphoneos-arm.deb
+Size: 1902
+MD5sum: b008245367e230cff1d64485c9cbd764
+SHA1: 4b0e5d3afcc806106057f334728aad26a485df6d
+SHA256: e6afc946aef430061357290eb8f9d98a4ab059e8c954826a5cb907572f6ea26f
 Section: System
-Description: The package automatically enables substrate when running mach_portal jailbreak. This is beta software. I will try to provide support, but expect some bugs. Should bugs arise, please alert me of the issue calmly so that I may fix it. I try to reply to everyone, but even if I don't, I read it all and consider the messages for future updates. Special thanks to @DillanCodez for his help on this. Follow me on twitter @r3st1t0u. If you'd like to buy me a coffee, use paypal.me/r3st1t0u to donate!
+Description: The package automatically enables substrate when running mach_portal jailbreak. This is beta software. I will try to provide support, but expect some bugs. Should bugs arise, please alert me of the issue calmly so that I may fix it. I try to reply to everyone, but even if I don't, I read it all and consider the messages for future updates. Fixes some issues with LaunchDaemons that sometimes occur on devices particularly with few tweaks. Follow me on twitter @r3st1t0u. If you'd like to buy me a coffee, use paypal.me/r3st1t0u to donate!
 Author: r3st1t0u (Ben Weaver)
 Name: Order 65 for Yalub3
 
