@@ -1,13 +1,13 @@
 Package: com.r3st1t0u.kenobi
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: r3st1t0u (Ben Weaver)
-Conflicts: com.r3st1t0u.substratefix
-Filename: ./debs/com.r3st1t0u.kenobi_1.0_iphoneos-arm.deb
-Size: 1238
-MD5sum: 3196cf8b8e43c442b3ec424938df28de
-SHA1: 27269137717cd4eeefbb2dd7b4b93db605311408
-SHA256: 99469a520414088fab03451fa30a6903bb3308935428444d81c5c84680e185e1
+Conflicts: com.r3st1t0u.substratefix, me.gmoran.cydiarespringfix
+Filename: ./debs/com.r3st1t0u.kenobi_1.1_iphoneos-arm-1.deb
+Size: 1258
+MD5sum: a4218df0e79de86d205b3ed72094d4f9
+SHA1: 57e43579b656aca378b5d51e9c0cef461a96b865
+SHA256: ed608d9ba97c4de4eeb64184ec65d72243188fd3e3057ccb45cbdb11e7526984
 Section: System
 Description: This package reverts all charges made by Order 65, Order 66, and Executer. After the package has been installed, you can remove it. You may donate at paypal.me/r3st1t0u!
 Author: r3st1t0u (Ben Weaver)
