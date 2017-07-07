@@ -1,3 +1,51 @@
+Package: com.r3st1t0u.cclowpower
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: r3st1t0u
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/com.r3st1t0u.cclowpower_1.0-1_iphoneos-arm.deb
+Size: 3830
+MD5sum: 6d6ee856aa95533f412042f152024716
+SHA1: feb2bc7f0ee7b039cd522f172dfef92d89377d13
+SHA256: 0957b004ccd0941a240faeb6747e6137535253ea569b3ca4019bb71ee6893380
+Section: Tweaks
+Description: Low power mode in control center on one page.
+Author: cole cabral & r3st1t0u
+Name: CCLowPower (One Page)
+
+Package: com.r3st1t0u.cclowrecord
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: r3st1t0u (Ben Weaver)
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/com.r3st1t0u.cclowrecord_1.0-2_iphoneos-arm.deb
+Size: 4216
+MD5sum: 5c3a82b77df54ffcb2bbe82d13765b73
+SHA1: 5e492ce8eba74659be5168d70b3f4be9927703f4
+SHA256: 9430fbd091f19ce1f59b56e8c51659695c1211c3ea04d05e7aa3139470e40d1f
+Section: Tweaks
+Description: Combines CCRecord and CCLowPower into one package.
+Author: cole cabral & r3st1t0u
+Name: CCLowRecord
+
+Package: com.r3st1t0u.ccrecord
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: r3st1t0u (Ben Weaver)
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/com.r3st1t0u.ccrecord_1.0-2_iphoneos-arm.deb
+Size: 3676
+MD5sum: fb29a2acadf0f374a4e0636f2cba4845
+SHA1: 89836c90cfa670f562046d48a0a05408d909271f
+SHA256: 22dc78dc845b14e664143236334cb74cf3361ebe0e6d1399067632f74364d89a
+Section: Tweaks
+Description: Screen recording in control center on one page.
+Author: cole cabral & r3st1t0u
+Name: CCRecord (One Page)
+
 Package: com.r3st1t0u.kenobi
 Version: 1.1
 Architecture: iphoneos-arm
