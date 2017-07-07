@@ -76,6 +76,20 @@ Description: The package automatically enables substrate when running mach_porta
 Author: r3st1t0u (Ben Weaver)
 Name: Order 65 for Yalub3
 
+Package: com.r3st1t0u.rebackboardd
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: r3st1t0u (Ben Weaver)
+Filename: ./debs/com.r3st1t0u.rebackboardd_1.0_iphoneos-arm.deb
+Size: 22278
+MD5sum: b78149da14d4978ef1b9b8bf7034baf5
+SHA1: 3943a955a241c48e767ac20972031d222d80a8df
+SHA256: 2688469ee77a799c69f3dec5f4d9f1e533c4b97743383aa0ce4196422b3165a4
+Section: System
+Description: This is a respring icon. It is a shortcut to run "killall backboardd". This is the recommended way to respring on newer versions of iOS, so I made this package. The other package was for the mach_portal jailbreak mostly. It should work on most versions of iOS. You may donate at paypal.me/r3st1t0u!
+Author: r3st1t0u (Ben Weaver)
+Name: Rebackboardd
+
 Package: com.r3st1t0u.respring
 Version: 1.1
 Architecture: iphoneos-arm
