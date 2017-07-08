@@ -77,14 +77,14 @@ Author: r3st1t0u (Ben Weaver)
 Name: Order 65 for Yalub3
 
 Package: com.r3st1t0u.rebackboardd
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: r3st1t0u (Ben Weaver)
-Filename: ./debs/com.r3st1t0u.rebackboardd_1.0_iphoneos-arm.deb
-Size: 22278
-MD5sum: b78149da14d4978ef1b9b8bf7034baf5
-SHA1: 3943a955a241c48e767ac20972031d222d80a8df
-SHA256: 2688469ee77a799c69f3dec5f4d9f1e533c4b97743383aa0ce4196422b3165a4
+Filename: ./debs/com.r3st1t0u.rebackboardd_1.1_iphoneos-arm.deb
+Size: 22276
+MD5sum: 9655f2b941c28d06daa7400f6f3885ba
+SHA1: e769b261608e5c9be31a5e254193d840312bfa27
+SHA256: ef70aba912d277cd13d37b1ddf734a86e4534a13456ce2e5fd0381806656b401
 Section: System
 Description: This is a respring icon. It is a shortcut to run "killall backboardd". This is the recommended way to respring on newer versions of iOS, so I made this package. The other package was for the mach_portal jailbreak mostly. It should work on most versions of iOS. You may donate at paypal.me/r3st1t0u!
 Author: r3st1t0u (Ben Weaver)
