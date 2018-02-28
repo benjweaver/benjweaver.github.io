@@ -119,22 +119,6 @@ Description: This is a SpringBoard icon to execute order66 in order to better fi
 Author: r3st1t0u (Ben Weaver)
 Name: Executer for Yalub3
 
-Package: com.r3st1t0u.snapbreak
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: r3st1t0u
-Installed-Size: 144
-Depends: mobilesubstrate
-Filename: ./debs/com.r3st1t0u.snapbreak_1.0_iphoneos-arm.deb
-Size: 3940
-MD5sum: 0825caba60ca7d341c31a8f32dfd2ee2
-SHA1: e6b542de4fb8af5b69b9fb644b97ab706831b8b7
-SHA256: 58efcfedef90bd5a5f7bbfc54c8a9938131ce9bcea8c309221566cb05e89e5f6
-Section: Tweaks
-Description: Disables substrate/substitute injection into Snapchat. This will break Snapchat tweaks.
-Author: r3st1t0u
-Name: SnapBreak
-
 Package: com.r3st1t0u.substratefix
 Version: 2.6
 Architecture: iphoneos-arm
