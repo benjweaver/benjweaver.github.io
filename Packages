@@ -46,6 +46,20 @@ Description: Screen recording in control center on one page.
 Author: cole cabral & r3st1t0u
 Name: CCRecord (One Page)
 
+Package: com.r3st1t0u.filza
+Version: 3.4.0-25-r3st1t0u
+Architecture: iphoneos-arm
+Maintainer: Ben Weaver
+Filename: ./debs/FilzaElectracuted.deb
+Size: 9370790
+MD5sum: 3433ab20a5e048f677cc0f9d8206e4ad
+SHA1: 27828a72ddf5b573e68c192c146602b5d09aa0ab
+SHA256: cddf83570109acb04e89872ddef6e7ce50023409dc4c2d6e126428cf4ce2df79
+Section: System
+Description: Filza for Electra jailbreak
+Author: TIGI Software
+Name: Filza for Electra
+
 Package: com.r3st1t0u.kenobi
 Version: 1.1
 Architecture: iphoneos-arm
