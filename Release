@@ -1,8 +1,8 @@
-Origin: r3st1t0u's Repo
-Label: r3st1t0u's Repo
+Origin: Ben Weaver's Repo
+Label: Ben Weaver's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Stuff I find useful.
+Description: Useful tools, tools tweaks, and more for Jailbroken iOS.
