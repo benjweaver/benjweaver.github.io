@@ -1,14 +1,14 @@
 Package: com.rpetrich.rocketbootstrap
-Version: 1.0.5~rc1-1+debug
+Version: 1.0.7~benjweaver-1+debug
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 672
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
-Filename: ./debs/com.rpetrich.rocketbootstrap_1.0.5~rc1-1+debug_iphoneos-arm.deb
-Size: 36936
-MD5sum: 9d465ce0a19bc285db4d90e652aeda9a
-SHA1: 38056ff776d938b7a8e50d9f50bc009bd5e876f9
-SHA256: b9e590f6e40d7006982c7b8b8442cb0b13b3c46e5e5a94f1102cad65566fafdc
+Filename: ./debs/com.rpetrich.rocketbootstrap_1.0.7~benjweaver-1+debug_iphoneos-arm.deb
+Size: 36978
+MD5sum: 95b3107db01bfba54d12d19c6e601bb1
+SHA1: df0d49c3bb3522b3eb06cc42864684cb5925871f
+SHA256: e563dfdede2dcb6e09390f0850c20fcceb31c77de51dfb5adb15c9952d0d367d
 Section: Tweaks
 Homepage: http://rpetri.ch/cydia/rocketbootstrap/beta/
 Description: Support library allowing tweaks to communicate with sandboxed processes
