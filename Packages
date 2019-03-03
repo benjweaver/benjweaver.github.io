@@ -1,137 +1,21 @@
-Package: com.r3st1t0u.cclowpower
-Version: 1.0-1
+Package: com.rpetrich.rocketbootstrap
+Version: 1.0.5~rc1-1+debug
 Architecture: iphoneos-arm
-Maintainer: r3st1t0u
-Installed-Size: 136
-Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: ./debs/com.r3st1t0u.cclowpower_1.0-1_iphoneos-arm.deb
-Size: 3830
-MD5sum: 6d6ee856aa95533f412042f152024716
-SHA1: feb2bc7f0ee7b039cd522f172dfef92d89377d13
-SHA256: 0957b004ccd0941a240faeb6747e6137535253ea569b3ca4019bb71ee6893380
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 672
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Filename: ./debs/com.rpetrich.rocketbootstrap_1.0.5~rc1-1+debug_iphoneos-arm.deb
+Size: 36936
+MD5sum: 9d465ce0a19bc285db4d90e652aeda9a
+SHA1: 38056ff776d938b7a8e50d9f50bc009bd5e876f9
+SHA256: b9e590f6e40d7006982c7b8b8442cb0b13b3c46e5e5a94f1102cad65566fafdc
 Section: Tweaks
-Description: Low power mode in control center on one page.
-Author: cole cabral & r3st1t0u
-Name: CCLowPower (One Page)
-
-Package: com.r3st1t0u.cclowrecord
-Version: 1.0-2
-Architecture: iphoneos-arm
-Maintainer: r3st1t0u (Ben Weaver)
-Installed-Size: 136
-Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: ./debs/com.r3st1t0u.cclowrecord_1.0-2_iphoneos-arm.deb
-Size: 4216
-MD5sum: 5c3a82b77df54ffcb2bbe82d13765b73
-SHA1: 5e492ce8eba74659be5168d70b3f4be9927703f4
-SHA256: 9430fbd091f19ce1f59b56e8c51659695c1211c3ea04d05e7aa3139470e40d1f
-Section: Tweaks
-Description: Combines CCRecord and CCLowPower into one package.
-Author: cole cabral & r3st1t0u
-Name: CCLowRecord
-
-Package: com.r3st1t0u.ccrecord
-Version: 1.0-2
-Architecture: iphoneos-arm
-Maintainer: r3st1t0u (Ben Weaver)
-Installed-Size: 136
-Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: ./debs/com.r3st1t0u.ccrecord_1.0-2_iphoneos-arm.deb
-Size: 3676
-MD5sum: fb29a2acadf0f374a4e0636f2cba4845
-SHA1: 89836c90cfa670f562046d48a0a05408d909271f
-SHA256: 22dc78dc845b14e664143236334cb74cf3361ebe0e6d1399067632f74364d89a
-Section: Tweaks
-Description: Screen recording in control center on one page.
-Author: cole cabral & r3st1t0u
-Name: CCRecord (One Page)
-
-Package: com.r3st1t0u.kenobi
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: r3st1t0u (Ben Weaver)
-Conflicts: com.r3st1t0u.substratefix, me.gmoran.cydiarespringfix
-Filename: ./debs/com.r3st1t0u.kenobi_1.1_iphoneos-arm-1.deb
-Size: 1258
-MD5sum: a4218df0e79de86d205b3ed72094d4f9
-SHA1: 57e43579b656aca378b5d51e9c0cef461a96b865
-SHA256: ed608d9ba97c4de4eeb64184ec65d72243188fd3e3057ccb45cbdb11e7526984
-Section: System
-Description: This package reverts all charges made by Order 65, Order 66, and Executer. After the package has been installed, you can remove it. You may donate at paypal.me/r3st1t0u!
-Author: r3st1t0u (Ben Weaver)
-Name: Kenobi for Yalub3
-
-Package: com.r3st1t0u.order65
-Version: 1.5
-Architecture: iphoneos-arm
-Maintainer: r3st1t0u (Ben Weaver)
-Depends: mobilesubstrate, com.r3st1t0u.substratefix
-Filename: ./debs/com.r3st1t0u.order65_1.5_iphoneos-arm.deb
-Size: 1902
-MD5sum: b008245367e230cff1d64485c9cbd764
-SHA1: 4b0e5d3afcc806106057f334728aad26a485df6d
-SHA256: e6afc946aef430061357290eb8f9d98a4ab059e8c954826a5cb907572f6ea26f
-Section: System
-Description: The package automatically enables substrate when running mach_portal jailbreak. This is beta software. I will try to provide support, but expect some bugs. Should bugs arise, please alert me of the issue calmly so that I may fix it. I try to reply to everyone, but even if I don't, I read it all and consider the messages for future updates. Fixes some issues with LaunchDaemons that sometimes occur on devices particularly with few tweaks. Follow me on twitter @r3st1t0u. If you'd like to buy me a coffee, use paypal.me/r3st1t0u to donate!
-Author: r3st1t0u (Ben Weaver)
-Name: Order 65 for Yalub3
-
-Package: com.r3st1t0u.rebackboardd
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: r3st1t0u (Ben Weaver)
-Filename: ./debs/com.r3st1t0u.rebackboardd_1.1_iphoneos-arm.deb
-Size: 22276
-MD5sum: 9655f2b941c28d06daa7400f6f3885ba
-SHA1: e769b261608e5c9be31a5e254193d840312bfa27
-SHA256: ef70aba912d277cd13d37b1ddf734a86e4534a13456ce2e5fd0381806656b401
-Section: System
-Description: This is a respring icon. It is a shortcut to run "killall backboardd". This is the recommended way to respring on newer versions of iOS, so I made this package. The other package was for the mach_portal jailbreak mostly. It should work on most versions of iOS. You may donate at paypal.me/r3st1t0u!
-Author: r3st1t0u (Ben Weaver)
-Name: Rebackboardd
-
-Package: com.r3st1t0u.respring
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: r3st1t0u (Ben Weaver)
-Filename: ./debs/com.r3st1t0u.respring_1.1_iphoneos-arm.deb
-Size: 22230
-MD5sum: 089bba265e46873b7acf3c87e17349b3
-SHA1: cc64760d4d989b950655a5105a3c8c254d018d3b
-SHA256: f98d9dd4a0a53e55287872a0e352d20bb8d665fea71d27d0f893ee63a115c76f
-Section: System
-Description: This is a respring icon. It is a shortcut to run "killall -9 SpringBoard. It should work on most versions of iOS. You may donate at paypal.me/r3st1t0u!
-Author: r3st1t0u (Ben Weaver)
-Name: Respring Icon
-
-Package: com.r3st1t0u.sheev
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: r3st1t0u (Ben Weaver)
-Depends: mobilesubstrate, com.r3st1t0u.substratefix
-Filename: ./debs/com.r3st1t0u.sheev_1.2_iphoneos-arm.deb
-Size: 245532
-MD5sum: 714d25e51bbe4a6a456a7d640b8cd4c4
-SHA1: 0b5066fa376919f7518298406b84d1dd85110f0d
-SHA256: f8b4cf8bbef57c0173426fc96b93b1f41db8a5d288828c9be76c130ac834f8c5
-Section: System
-Description: This is a SpringBoard icon to execute order66 in order to better fix substrate on the iPhone 7/7+, and improve the stability of Yalub3. 1.2 fixes layout on zoomed devices, and adds a new icon thanks to @MacLabOfficial.
-Author: r3st1t0u (Ben Weaver)
-Name: Executer for Yalub3
-
-Package: com.r3st1t0u.substratefix
-Version: 2.6
-Architecture: iphoneos-arm
-Maintainer: r3st1t0u (Ben Weaver)
-Depends: mobilesubstrate, com.ericasadun.utilities
-Conflicts: com.codyqx4.ios9rebootfix
-Filename: ./debs/com.r3st1t0u.substratefix_2.6_iphoneos-arm.deb
-Size: 1584
-MD5sum: 6c8bedc90d99b6b2b5593ce7e0dfb79b
-SHA1: 39809b1e82041f64177038e3405f5ac0fb5ce49f
-SHA256: 5784ab5e5d78ced28b0256d29035f44a972804a49fdf7f2d2bf1a08cb51959fd
-Section: System
-Description: This package is a better substrate enabler for the Yalub3 jailbreak. Run with the command execute or through Executer for Yalub3 on my repo. You may donate at paypal.me/r3st1t0u!
-Author: r3st1t0u (Ben Weaver)
-Name: Substrate Enabler for Yalub3
+Homepage: http://rpetri.ch/cydia/rocketbootstrap/beta/
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Tag: purpose::extension, role::developer
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Depiction: http://rpetri.ch/cydia/rocketbootstrap/beta/
+Dev: rpetrich
+Name: RocketBootstrap
+Sponsor: thebigboss.org <http://thebigboss.org>
 
